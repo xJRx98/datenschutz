@@ -4,11 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Datenschutzerklärung</title>
-  <style>
-    body { font-family: sans-serif; max-width: 800px; margin: 2rem auto; padding: 1rem; line-height: 1.6; }
-    h1, h2 { color: #333366; }
-    a { color: #336699; }
-  </style>
 </head>
 <body>
 
