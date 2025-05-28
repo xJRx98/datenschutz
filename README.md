@@ -46,4 +46,4 @@
     Bei Fragen zum Datenschutz wenden Sie sich bitte über den in der Google Play Store App hinterlegten Entwicklerkontakt an uns.
   </p>
 
-  <p>Stand: Mai 2025</p>
+  <p>Stand: 28. Mai 2025</p>
