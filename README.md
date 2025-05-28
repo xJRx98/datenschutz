@@ -47,6 +47,3 @@
   </p>
 
   <p>Stand: Mai 2025</p>
-
-</body>
-</html>
