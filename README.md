@@ -43,7 +43,10 @@
 
   <h2>7. Kontakt</h2>
   <p>
-    Bei Fragen zum Datenschutz wenden Sie sich bitte über den in der Google Play Store App hinterlegten Entwicklerkontakt an uns.
+    Bei Fragen zum Datenschutz wenden Sie sich bitte an <a href="mailto:wasserwerte.app@gmx.de@?subject=Anfrage%20zu%20Datenschutz&body=Hallo,%20ich%20bhabe%2Fragen%20zu...">
+  wasserwerte.app@gmx.de
+</a>
+
   </p>
 
   <p>Stand: 28. Mai 2025</p>
