@@ -26,16 +26,17 @@
 
   <h2>5. Premium-Abonnement (optional)</h2>
   <p>
-    Die App ist grundsätzlich kostenlos nutzbar. Optional kann ein kostenpflichtiges Abonnement abgeschlossen werden 
-    (monatlich 0,99 € oder jährlich 9,99 €), das zusätzliche Premium-Funktionen freischaltet. 
-    Ein kostenloser Probezeitraum von einem Monat ist enthalten.
+    Die App ist vollständig kostenlos nutzbar. Nutzerinnen und Nutzer haben jedoch die Möglichkeit, die Weiterentwicklung der App durch eine freiwillige Spende zu unterstützen.
   </p>
   <p>
-    Die Abwicklung und Verwaltung des Abonnements erfolgt ausschließlich über Google Play. 
-    Informationen zur Datenverarbeitung durch Google finden Sie in der 
-    <a href="https://policies.google.com/privacy?hl=de" target="_blank" rel="noopener">Datenschutzerklärung von Google</a>.
+    Die Abwicklung der Spende erfolgt über PayPal. Im Rahmen der Spendenabwicklung über PayPal werden dem Entwickler personenbezogene Daten der spendenden Person (z. B. Name, E-Mail-Adresse, ggf. Anschrift) durch     PayPal angezeigt. Diese Daten werden ausschließlich zur Einsicht im Rahmen der Transaktion verwendet und nicht gespeichert, verarbeitet oder weitergegeben.
   </p>
-
+    Es erfolgt keine Gegenleistung für die Spende. Es handelt sich um eine freiwillige Zuwendung ohne rechtlichen Anspruch auf eine Leistung oder Funktion.
+  <p>
+    Bitte beachten Sie, dass bei Nutzung von PayPal die Datenschutzerklärung von PayPal Anwendung findet. Weitere Informationen finden Sie unter:
+    https://www.paypal.com/de/webapps/mpp/ua/privacy-full
+  </p>
+ 
   <h2>6. Ihre Rechte</h2>
   <p>
     Da keine personenbezogenen Daten erhoben werden, ergeben sich im Rahmen dieser App keine spezifischen Rechte im Sinne der DSGVO.
