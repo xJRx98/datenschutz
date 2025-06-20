@@ -24,7 +24,7 @@
     Diese App nutzt keine externen Server oder Schnittstellen, die personenbezogene Daten übertragen oder verarbeiten.
   </p>
 
-  <h2>5. Premium-Abonnement (optional)</h2>
+  <h2>5. Freiwillige Spenden</h2>
   <p>
     Die App ist vollständig kostenlos nutzbar. Nutzerinnen und Nutzer haben jedoch die Möglichkeit, die Weiterentwicklung der App durch eine freiwillige Spende zu unterstützen.
   </p>
