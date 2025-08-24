@@ -24,30 +24,17 @@
     Diese App nutzt keine externen Server oder Schnittstellen, die personenbezogene Daten übertragen oder verarbeiten.
   </p>
 
-  <h2>5. Freiwillige Spenden</h2>
-  <p>
-    Die App ist vollständig kostenlos nutzbar. Nutzerinnen und Nutzer haben jedoch die Möglichkeit, die Weiterentwicklung der App durch eine freiwillige Spende zu unterstützen.
-  </p>
-  <p>
-    Die Abwicklung der Spende erfolgt über PayPal. Im Rahmen der Spendenabwicklung über PayPal werden dem Entwickler personenbezogene Daten der spendenden Person (z. B. Name, E-Mail-Adresse, ggf. Anschrift) durch     PayPal angezeigt. Diese Daten werden ausschließlich zur Einsicht im Rahmen der Transaktion verwendet und nicht gespeichert, verarbeitet oder weitergegeben.
-  </p>
-    Es erfolgt keine Gegenleistung für die Spende. Es handelt sich um eine freiwillige Zuwendung ohne rechtlichen Anspruch auf eine Leistung oder Funktion.
-  <p>
-    Bitte beachten Sie, dass bei Nutzung von PayPal die Datenschutzerklärung von PayPal Anwendung findet. Weitere Informationen finden Sie unter:
-    https://www.paypal.com/de/webapps/mpp/ua/privacy-full
-  </p>
- 
-  <h2>6. Ihre Rechte</h2>
+  <h2>5. Ihre Rechte</h2>
   <p>
     Da keine personenbezogenen Daten erhoben werden, ergeben sich im Rahmen dieser App keine spezifischen Rechte im Sinne der DSGVO.
   </p>
 
   <h2>7. Kontakt</h2>
   <p>
-    Bei Fragen zum Datenschutz wenden Sie sich bitte an <a href="mailto:wasserwerte.app@gmx.de?subject=Anfrage%20zu%20Datenschutz&body=Hallo,%20ich%20habe%20Fragen%20zu%20...">
+    Bei Fragen zum Datenschutz wenden Sie sich bitte an <a href="mailto:mail@cp-aquaplants.de?subject=Anfrage%20zu%20Datenschutz&body=Hallo,%20ich%20habe%20Fragen%20zu%20...">
   wasserwerte.app@gmx.de
 </a>
 
   </p>
 
-  <p>Stand: 28. Mai 2025</p>
+  <p>Stand: 24. August 2025</p>
